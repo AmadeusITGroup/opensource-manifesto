@@ -24,10 +24,10 @@ C4. Amadeus shall promote visibility in Open Source communities. [FOSS Visibilit
 
 ## Employee Principles ##
 
-E1. An engineer shall look for Open and Inner Source alternatives before writing custom code or using proprietary alternatives. [Prefer FOSS]
+E1. An engineer shall look for Inner and Open Source alternatives before writing custom code or using proprietary alternatives. [Prefer FOSS]
 
 E2. An engineer shall strive to be active in the Inner Source communities. [Active FOSS Citizen]
 
-E3. An engineer shall contribute to Open Source projects within the scope of his or her day-to-day work. [Contribute FOSS]
+E3. An engineer shall contribute to Inner and Open Source projects within the scope of their day-to-day work. [Contribute FOSS]
 
-E4. Any employee shall always act responsibly in Open and Inner Source communities, with care and respect in both content and communication, in order to uphold a positive image for both himself / herself and the company. [Responsible FOSS Citizen]
+E4. Any employee shall always act responsibly in Open and Inner Source communities, with care and respect in both content and communication, in order to uphold a positive image of themselves and the company. [Responsible FOSS Citizen]
