@@ -30,4 +30,4 @@ E2. An engineer shall strive to be active in the Inner Source communities. [Acti
 
 E3. An engineer shall contribute to Inner and Open Source projects within the scope of their day-to-day work. [Contribute FOSS]
 
-E4. Any employee shall always act responsibly in Open and Inner Source communities, with care and respect in both content and communication, in order to uphold a positive image of themselves and the company. [Responsible FOSS Citizen]
+E4. Any employee shall always act responsibly in Open and Inner Source communities, with care and respect in both content and communication, to uphold a positive image of themselves and the company.  [Responsible FOSS Citizen]
