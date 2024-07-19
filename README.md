@@ -25,12 +25,12 @@ C4. Amadeus shall promote visibility in Open Source communities. [Be Visible]
 
 C5. Amadeus shall support its employees in ensuring compliance in the use of Open Source. [Be Compliant] 
 
-## Employee Principles ##
+## Employees Principles ##
 
-E1. An employee shall look for Inner and Open Source alternatives before writing custom codes or using proprietary alternatives. [Be Efficient!]
+E1. Employees shall look for Inner and Open Source alternatives before writing custom codes or using proprietary alternatives. [Be Efficient!]
 
-E2. An employee shall strive to be active in the Inner and Open Source communities. [Be Active!]
+E2. Employees shall strive to be active in the Inner and Open Source communities. [Be Active!]
 
-E3. An employee shall contribute to Inner and Open Source projects within the scope of his/her day-to-day work. [Be Contributor!] 
+E3. Employees shall contribute to Inner and Open Source projects within the scope of their day-to-day work. [Be Contributor!] 
 
-E4.  Any employee shall always act responsibly in Inner and Open Source communities, with care and respect in both content and communication, to uphold a positive image of himself/herself and the company, including ensuring compliance in the use of each Open Source. [Be Responsible!]
+E4. Employees shall always act responsibly in Inner and Open Source communities, with care and respect in both content and communication, to uphold a positive image of themselves and the company, including ensuring compliance in the use of each Open Source. [Be Responsible!]
