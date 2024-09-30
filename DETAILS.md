@@ -2,7 +2,7 @@
 
 - The intention is not to propose Open/Inner Source just for the sake of **publishing the code** (this is just **a mere side effect**).​
 - What is more important is the **mindset transformation**. The **transparency**, **developer empowerment**, **better collaboration**, **knowledge exchange** to name a few are way more important than just pushing the code to GitHub.​
-- Are we going to force every Developer in Amadeus to be involved in Open Source. Definitely not. **Open Source cannot be centrally orchestrated**. It has to be organic in nature if we treat it seriously.​
+- Are we going to force every Developer in Amadeus to be involved in Open Source? Definitely not. **Open Source cannot be centrally orchestrated**. It has to be organic in nature if we treat it seriously.​
 - The Open, as well as the Inner Source practices bring the **ability to break the silos**. Suddenly people are empowered to **study their ecosystem**, to **understand the inner-workings** and to be involved in **shaping it**. ​They are no longer passive. They are becoming the **change agent**.​
 ​- This approach helps in **driving innovation**, **building togetherness** and moving from treating the work solely as a means of earning their life - a proverbial job - into something that they feel proud of, their **passion**. ​
 
