@@ -9,7 +9,7 @@
 ## Inner vs Open Source
 - In the scope of the Manifesto we don't differentiate these two approaches
 - We believe that in regards to the intent they have a lot in common, therefore we will promote both with the same strenght and determination
-- We acknowledge that Open Source may not be an option in some contexts. Practising Open Source princples, minus publishing the code beyond the organisation is the second best aproach and that is Inner Source in our high level interpretation.
+- We acknowledge that Open Source may not be an option in some contexts. Practising Open Source principles, minus publishing the code beyond the organisation is the second best aproach and that is Inner Source in our high level interpretation.
 ​
 ## The meaning of the "appropriate time"
 - We should be driven by **pragmatism** here. In the end we are not a charity organisation and what we do should positively impact the business side. Nobody will contest that fact. ​
